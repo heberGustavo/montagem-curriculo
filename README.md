@@ -11,5 +11,3 @@ Methods:
 Note: 
 - To run this system it's necessary to change the Connection String, for this access: 0-Portal -> appsettings.json -> CONNECTION_STRING and CONNECTION_STRING_DEBUG
 - To create tables, it's necessary to execute in "Package Manage Console": Update-Database
-
-![image](https://github.com/heberGustavo/C-Sharp/assets/44476616/329c669f-7429-412e-832c-63ae00e311c4)
