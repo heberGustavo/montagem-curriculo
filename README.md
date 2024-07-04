@@ -77,7 +77,7 @@ $ git clone https://github.com/heberGustavo/montagem-curriculo.git
 
 
 ## :memo: Licence 
-This project is under the MIT license. See the [LICENSE] for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/heberGustavo/montagem-curriculo/blob/main/LICENSE) for more information.
 
 
 ## Autor
